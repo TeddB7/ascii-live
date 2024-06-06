@@ -1,0 +1,254 @@
+package frames
+
+var Tortoise = DefaultFrameType(Tortoise Frames)
+
+var TortoiseFrames = []string}
+
+
+                                                                                  sssssssss
+                                                                                s    s     s  
+                                 ss.'''''''''''.......'''''.'.'.'.'.          s             s
+                               s                                     s     s                s
+                             s                                         s s                s
+                           s                                             s               s
+                         .                                                 s           s
+                         .                                                   s       s
+                         .                                                     s   s
+                        s s.''''''''''''sssssssssssssss,.,.,.,sssssssssssssssss  s
+                      s          s      s         s    s           s   s            s            
+                     s          s      s        s        s          s   s            s
+                   s         s        s       s            s         s   s            s
+                 s          s        s      s                s        s    s          s
+               s         s          s     s                    s       s   s          s
+             s       s             s    s                        s     s     s      s
+              s s                s s ss                            s s         s  s                                           
+
+
+
+
+
+
+
+
+                                                                                  sssssssss
+                                                                                s    s     s  
+                                 ss.'''''''''''.......'''''.'.'.'.'.          s             s
+                               s                                     s     s                s
+                             s                                         s s                s
+                           s                                             s               s
+                         .                                                 s           s
+                         .                                                   s       s
+                         .                                                     s   s
+                        s s.''''''''''''sssssssssssssss,.,.,.,sssssssssssssssss  s
+                      s          s      s         s    s           s    s            s            
+                     s          s      s        s        s          s    s            s
+                   s         s        s       s            s         s    s            s
+                 s          s        s      s                s        s     s          s
+               s         s          s     s                    s       s     s          s
+             s       s             s    s                        s     s        s      s
+              s s                s s ss                            s s            s  s       
+ 
+
+
+
+
+
+
+
+
+                                                                                  sssssssss
+                                                                                s    s     s  
+                                 ss.'''''''''''.......'''''.'.'.'.'.          s             s
+                               s                                     s     s                s
+                             s                                         s s                s
+                           s                                             s               s
+                         .                                                 s           s
+                         .                                                   s       s
+                         .                                                     s   s
+                        s s.''''''''''''sssssssssssssss,.,.,.,sssssssssssssssss  s
+                      s          s      s         s    s           s     s            s            
+                     s          s      s        s        s          s      s            s
+                   s         s        s       s            s         s      s            s
+                 s          s        s      s                s        s       s          s
+               s         s          s     s                    s       s       s          s
+             s       s             s    s                        s     s          s      s
+              s s                s s ss                            s s              s  s   
+                                                                                 sssssssss
+                                                                                s    s     s  
+                                 ss.'''''''''''.......'''''.'.'.'.'.          s             s
+                               s                                     s     s                s
+                             s                                         s s                s
+                           s                                             s               s
+                         .                                                 s           s
+                         .                                                   s       s
+                         .                                                     s   s
+                        s s.''''''''''''sssssssssssssss,.,.,.,sssssssssssssssss  sssssss
+                      s          s      s         s    s           s        s            s            
+                     s          s      s        s        s          s        s             s
+                   s         s        s       s            s         s         s            s
+                 s          s        s      s                s        s           s          s
+               s         s          s     s                    s       s          s          s
+             s       s             s    s                        s     s            s      s
+              s s                s s ss                            s s                 s  s       
+
+                                                                                  sssssssss
+                                                                                s    s     s  
+                                 ss.'''''''''''.......'''''.'.'.'.'.          s             s
+                               s                                     s     s                s
+                             s                                         s s                s
+                           s                                             s               s
+                         .                                                 s           s
+                         .                                                   s       s
+                         .                                                     s   s
+                        s s.''''''''''''sssssssssssssss,.,.,.,sssssssssssssssss  ssssss
+                      s          s      s         s    s           s        s            s            
+                     s          s      s        s        s          s         s            s
+                   s         s        s       s            s         s          s            s
+                 s          s        s      s                s        s             s          s
+               s         s          s     s                    s       s              s          s
+             s       s             s    s                        s     s                   s      s
+              s s                s s ss                            s s                          s  s     
+
+                                                                                   sssssssss
+                                                                                s    s     s  
+                                 ss.'''''''''''.......'''''.'.'.'.'.          s             s
+                               s                                     s     s                s
+                             s                                         s s                s
+                           s                                             s               s
+                         .                                                 s           s
+                         .                                                   s       s
+                         .                                                     s   s
+                        s s.''''''''''''sssssssssssssss,.,.,.,sssssssssssssssss  ssssss
+                      s          s      s         s   s           s        s            s            
+                     s          s      s        s       s          s         s            s
+                   s         s        s       s           s         s          s            s
+                 s          s        s      s               s        s             s          s
+               s         s          s     s                   s       s              s          s
+             s       s             s    s                         s     s                 s      s
+              s s                s s ss                              s s                     s  s    
+
+                                                                                  sssssssss
+                                                                                s    s     s  
+                                 ss.'''''''''''.......'''''.'.'.'.'.          s             s
+                               s                                     s     s                s
+                             s                                         s s                s
+                           s                                             s               s
+                         .                                                 s           s
+                         .                                                   s       s
+                         .                                                     s   s
+                        s s.''''''''''''sssssssssssssss,.,.,.,sssssssssssssssss  ssssss
+                      s          s      s         s     s           s        s            s            
+                     s          s      s        s         s          s         s            s
+                   s         s        s       s             s         s          s            s
+                 s          s        s      s                  s        s             s          s
+               s         s          s     s                      s       s              s          s
+             s       s             s    s                          s     s                  s      s
+              s s                s s ss                               s s                      s  s    
+
+                                                                                  sssssssss
+                                                                                s    s     s  
+                                 ss.'''''''''''.......'''''.'.'.'.'.          s             s
+                               s                                     s     s                s
+                             s                                         s s                s
+                           s                                             s               s
+                         .                                                 s           s
+                         .                                                   s       s
+                         .                                                     s   s
+                        s s.''''''''''''sssssssssssssss,.,.,.,sssssssssssssssss  ssssss
+                      s          s      s         s       s           s        s            s            
+                     s          s      s        s           s          s         s            s
+                   s         s        s       s               s         s          s            s
+                 s          s        s      s                    s        s             s          s
+               s         s          s     s                        s       s              s          s
+             s       s             s    s                            s     s                  s      s
+              s s                s s ss                                 s s                      s  s    
+
+                                                                                  sssssssss
+                                                                                s    s     s  
+                                 ss.'''''''''''.......'''''.'.'.'.'.          s             s
+                               s                                     s     s                s
+                             s                                         s s                s
+                           s                                             s               s
+                         .                                                 s           s
+                         .                                                   s       s
+                         .                                                     s   s
+                        s s.''''''''''''sssssssssssssss,.,.,.,sssssssssssssssss  sssssssssss
+                       s          s      s         s        s           s        s            s            
+                      s          s      s        s            s          s         s            s
+                    s         s        s       s                s         s          s            s
+                  s          s        s      s                     s        s             s          s
+                s         s          s     s                         s       s              s          s
+              s       s             s    s                             s     s                  s      s
+               s s                   s s                                   s s                      s  s    
+
+                                                                                  sssssssss
+                                                                                s    s     s  
+                                 ss.'''''''''''.......'''''.'.'.'.'.          s             s
+                               s                                     s     s                s
+                             s                                         s s                s
+                           s                                             s               s
+                         .                                                 s           s
+                         .                                                   s       s
+                         .                                                     s   s
+                        s s.''''''''''''sssssssssssssss,.,.,.,sssssssssssssssss  sssssssssss
+                        s          s       s         s        s           s      s            s            
+                       s          s       s        s            s          s        s            s
+                     s         s         s       s                s         s         s            s
+                   s          s         s      s                     s        s            s          s
+                 s         s           s     s                         s       s             s          s
+                s       s               s    s                             s     s                 s      s
+                s s                     s s                                   s s                     s  s    
+
+                                                                                  sssssssss
+                                                                                s    s     s  
+                                 ss.'''''''''''.......'''''.'.'.'.'.          s             s
+                               s                                     s     s                s
+                             s                                         s s                s
+                           s                                             s               s
+                         .                                                 s           s
+                         .                                                   s       s
+                         .                                                     s   s
+                        s s.''''''''''''sssssssssssssss,.,.,.,sssssssssssssssss  sssssssssss
+                          s          s       s         s      s           s     s            s            
+                         s          s       s        s          s          s       s            s
+                       s         s         s       s              s         s        s            s
+                     s          s         s      s                   s        s           s          s
+                   s         s           s     s                       s       s            s          s
+                 s       s               s    s                           s     s                s      s
+                  s s                     s s                                 s s                    s  s    
+
+                                                                                  sssssssss
+                                                                                s    s     s  
+                                 ss.'''''''''''.......'''''.'.'.'.'.          s             s
+                               s                                     s     s                s
+                             s                                         s s                s
+                           s                                             s               s
+                         .                                                 s           s
+                         .                                                   s       s
+                         .                                                     s   s
+                        s s.''''''''''''sssssssssssssss,.,.,.,sssssssssssssssss  sssssssssss
+                           s          s       s         s   s           s     s            s            
+                          s          s       s        s       s          s       s            s
+                        s         s         s       s           s         s        s            s
+                      s          s         s      s                s        s           s          s
+                    s         s           s     s                    s       s            s          s
+                   s       s              s    s                        s     s                s      s
+                    s s                    s s                              s s                    s  s   
+
+                                                                                  sssssssss
+                                                                                s    s     s  
+                                 ss.'''''''''''.......'''''.'.'.'.'.          s             s
+                               s                                     s     s                s
+                             s                                         s s                s
+                           s                                             s               s
+                         .                                                 s           s
+                         .                                                   s       s
+                         .                                                     s   s
+                        s s.''''''''''''sssssssssssssss,.,.,.,sssssssssssssssss  sssssssssss
+                             s          s       s        s s           s     s            s            
+                            s          s       s        s    s          s       s            s
+                          s         s         s       s        s         s        s            s
+                        s          s         s      s             s        s           s          s
+                      s         s           s     s                 s       s            s          s
+                     s       s              s    s                     s     s                s      s
+                      s s                    s s                           s s                    s  s   
